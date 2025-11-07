@@ -2,7 +2,7 @@
 
 🎓 I'm an **Economics and Statistics double major at UNC Charlotte** working to connect what I learn in class with real-world data and quantitative finance.  
 💻 I’m currently building projects in **Python** to explore topics like econometrics, optimization, and market modeling.  
-📈 I don’t have everything figured out yet — I’m still learning, experimenting, and making mistakes — but I’m genuinely curious about how math and data shape financial decisions.
+📈 I don’t have everything figured out yet — I’m still learning, experimenting, and making mistakes — but I’m genuinely curious about how math and data shapes financial decisions.
 
 ---
 
