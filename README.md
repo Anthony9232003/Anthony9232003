@@ -14,15 +14,6 @@
 
 ---
 
-### 🧩 Current Projects
-- **Monte Carlo Portfolio Simulator** — experimenting with random walks and portfolio risk visualization  
-- **Expected Utility Visualizer** — exploring how risk aversion changes decision-making  
-- **CAPM Regression Practice** — using sample stock data to understand beta and returns  
-
-*(I’m keeping these projects simple for now and improving them as I learn more!)*
-
----
-
 ### 🧠 Skills I’m Developing
 **Programming:** Python, R, SQL  
 **Concepts:** Econometrics, Probability, Optimization, Finance Fundamentals  
